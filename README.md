@@ -1,2 +1,2 @@
-# python-to-do-list
+# Python To-Do List
 Another simple project. 
